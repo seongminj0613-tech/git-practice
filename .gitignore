@@ -1,6 +1,7 @@
 __pycache__/
 .pytest_cache/
-
 git-labs/
 git-playground/
 revert-lab/
+temp/
+*.log
